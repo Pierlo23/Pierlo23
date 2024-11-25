@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pierlo23
-- 🌱 I’m currently learning Oracle SQL, Java and C++
 - 📫 How to reach me pierluigi.langellotti01@gmail.com
 
 
